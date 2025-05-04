@@ -1,0 +1,27 @@
+# Java / Spring Boot
+target/
+*.class
+*.log
+.classpath
+.project
+.settings/
+.mvn/
+mvnw
+mvnw.cmd
+
+# IDE settings
+.idea/
+*.iml
+
+# OS junk files
+Thumbs.db
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Node (if front-end or extension code)
+node_modules/
+
+# Others
+*.zip
